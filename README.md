@@ -24,7 +24,6 @@ A platform for donations and requests. Built with **HTML, CSS, JavaScript**. Inc
 ### 3. [Crop Rotation Project](your-link-here)
 A project to manage crop rotation for better yields. Focused on backend logic and database handling.  
 
-*(Add more projects as you like)*
 
 ---
 
