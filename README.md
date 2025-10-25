@@ -2,6 +2,10 @@
 
 I'm a passionate **computer science student** who loves coding, building projects, and exploring new tech.  
 I enjoy making things interactive and practical, while learning along the way.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79E4C&width=435&lines=Hi%2C+I'm+Sandy!;Welcome+to+my+GitHub+profile!;I+love+coding+%26+creating+cool+projects!)](https://git.io/typing-svg)
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNuNTcxODI5Y3d1M21mcXkya3JrNTE1bGtwczA1OG84cHJuMjBtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/77rvjVcaJr1BgKSXtR/giphy.webp" width="400"/>
+
+
 
 ---
 
