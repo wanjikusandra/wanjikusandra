@@ -18,7 +18,7 @@ I enjoy making things interactive and practical, while learning along the way.
 ### 1. [Mini Jumia App](your-link-here)
 A mini e-commerce platform where users can browse products, add to cart, and purchase. Built with **JavaScript** and **Node.js**.
 
-### 2. [Community Website](your-link-here)
+### 2. [Community Website](https://github.com/wanjikusandra/CRISIS-ASSISTANCE-)
 A platform for donations and requests. Built with **HTML, CSS, JavaScript**. Includes login and signup functionality.
 
 ### 3. [Crop Rotation Project](your-link-here)
