@@ -44,7 +44,7 @@ A project to manage crop rotation for better yields. Focused on backend logic an
 ## 📫 Connect with Me
 
 - Email: gathonisandra07@gmail.com 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [linkedin](https://linkedin.com/in/yourprofile)  
 
 ---
 
