@@ -11,9 +11,9 @@ I enjoy making things interactive and practical, while learning along the way.
 
 ## 💻 Skills
 
-- **Programming:** Python, JavaScript, SQL  
-- **Web Development:** HTML, CSS, Node.js, React  
-- **Tools & Platforms:** Git, GitHub, VS Code, MongoDB
+- **Programming:** JavaScript,sql  
+- **Web Development:** HTML, CSS, Node.js  
+- **Tools & Platforms:** Git, GitHub, VS Code, my sql
 - ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
